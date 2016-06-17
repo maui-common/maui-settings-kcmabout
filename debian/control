@@ -1,4 +1,4 @@
-Source: netrunner-settings-kcmabout
+Source: maui-settings-kcmabout
 Section: misc
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
@@ -6,8 +6,8 @@ Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 Homepage: https://github.com/netrunner-common/netrunner-settings-kcmabout
 
-Package: netrunner-settings-kcmabout
+Package: maui-settings-kcmabout
 Architecture: all
 Depends: ${misc:Depends}
 Description: settings package for about-extended KCM
- Customization package for Netrunner's about-extended KCM
+ Customization package for Maui's about-extended KCM
