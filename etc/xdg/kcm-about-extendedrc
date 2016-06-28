@@ -2,4 +2,4 @@
 LogoPath=/usr/share/maui-artwork/maui.png
 Website=http://www.netrunner.com
 Name=Maui Debian
-
+Version=@@BUILD_VERSION@@
