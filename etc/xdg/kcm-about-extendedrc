@@ -3,5 +3,5 @@ LogoPath=/usr/share/maui-artwork/maui.png
 Website=http://www.mauilinux.org
 Name=Maui
 Version=1
-Release=Blue Tang
+Release=Aurora
 BuildStamp=@@BUILD_VERSION@@
