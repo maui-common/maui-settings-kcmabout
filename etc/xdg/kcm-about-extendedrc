@@ -2,6 +2,6 @@
 LogoPath=/usr/share/maui-artwork/maui.png
 Website=http://www.mauilinux.org
 Name=Maui
-Version=17.03
+Version=17.06
 Release=Cuba Libre
 BuildStamp=@@BUILD_VERSION@@
